@@ -1,0 +1,7 @@
+C:\ElevenFiftyProjects\Challenges\ConsoleWeek2Challege\bin\Debug\ConsoleWeek2Challege.exe.config
+C:\ElevenFiftyProjects\Challenges\ConsoleWeek2Challege\bin\Debug\ConsoleWeek2Challege.exe
+C:\ElevenFiftyProjects\Challenges\ConsoleWeek2Challege\bin\Debug\ConsoleWeek2Challege.pdb
+C:\ElevenFiftyProjects\Challenges\ConsoleWeek2Challege\obj\Debug\ConsoleWeek2Challege.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\Challenges\ConsoleWeek2Challege\obj\Debug\ConsoleWeek2Challege.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\Challenges\ConsoleWeek2Challege\obj\Debug\ConsoleWeek2Challege.exe
+C:\ElevenFiftyProjects\Challenges\ConsoleWeek2Challege\obj\Debug\ConsoleWeek2Challege.pdb
